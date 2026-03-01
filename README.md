@@ -1,4 +1,4 @@
-)
+https://intelligent-hiring-assistent-d9iurvf7uyhvmryhqfllc5.streamlit.app/ (Add your API key FROM GOOGLE API studio)
 🧠 TalentScout – AI Hiring Assistant
 
 An intelligent AI-powered technical screening assistant built using Streamlit + Google Gemini API.
