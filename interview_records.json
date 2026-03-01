@@ -1,0 +1,59 @@
+[
+    {
+        "candidate": {
+            "name": "Karthik",
+            "email": "info@gmail.com",
+            "phone": "78965*****",
+            "experience": "0",
+            "location": "Hyderabad",
+            "position": "Aiml Engineer",
+            "tech_stack": [
+                "MAchine Learning",
+                "LLM"
+            ]
+        },
+        "answers": [
+            {
+                "question": "Describe the role of a validation set during the training process and how it differs from a test set.",
+                "answer": ""
+            },
+            {
+                "question": "How does a Random Forest model reduce the risk of overfitting compared to a single Decision Tree?",
+                "answer": ""
+            },
+            {
+                "question": "In a K-Nearest Neighbors (KNN) algorithm, how does the choice of 'K' influence the bias and variance of the model?",
+                "answer": ""
+            },
+            {
+                "question": "What is the 'Curse of Dimensionality,' and how can adding too many features potentially degrade the performance of a machine learning model?",
+                "answer": ""
+            },
+            {
+                "question": "Suppose you are building a model to predict house prices. How would you handle a categorical feature like 'Neighborhood' if it has 50 unique categories?",
+                "answer": ""
+            },
+            {
+                "question": "How would you decide whether to use Mean Absolute Error (MAE) or Mean Squared Error (MSE) for a regression task given a dataset with several outliers?",
+                "answer": ""
+            },
+            {
+                "question": "Why is it generally necessary to perform feature scaling, such as Min-Max scaling or Standardization, before training a Support Vector Machine (SVM)?",
+                "answer": ""
+            },
+            {
+                "question": "Explain the difference between L1 (Lasso) and L2 (Ridge) regularization and how they affect the model's coefficients.",
+                "answer": ""
+            },
+            {
+                "question": "If your classification model has high accuracy but very low recall for a minority class, what steps would you take to improve its performance on that specific class?",
+                "answer": ""
+            },
+            {
+                "question": "Explain the concept of 'Pruning' in Decision Trees and why it is important for model generalization.",
+                "answer": ""
+            }
+        ],
+        "completed_at": "2026-03-01 16:31:16"
+    }
+]
